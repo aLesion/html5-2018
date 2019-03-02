@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/calculator/calculator",
+    "pages/logs/logs"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        
+        "selectedIconPath": "pages/icon/home.jpg",
+        "iconPath": "pages/icon/home.jpg"
+      },
+        {
+          "pagePath": "pages/calculator/calculator",
+          "selectedIconPath": "pages/icon/calculator.jpg",
+          "iconPath": "pages/icon/calculator.jpg"
+        },
+        {
+        "pagePath": "pages/logs/logs",
+        "selectedIconPath": "pages/icon/about_me.jpg",
+        "iconPath": "pages/icon/about_me.jpg"
+      }
+    ]
+  }
+  
+}

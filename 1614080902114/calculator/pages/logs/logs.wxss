@@ -1,0 +1,48 @@
+.name{
+  height: 25%;
+  width: 100%;
+  
+}
+.name1{
+  height: 25%;
+  width: 100%;
+  background-color:  #185666;
+  flex: 1;
+}
+.head{
+  display: flex;
+  flex-direction: row;
+}
+.img{
+  height: 10vh;
+  width: 10vh;
+  border-top: 20px solid  #185666;
+  border-left:20px solid  #185666;
+  border-right:20px solid  #185666;
+  border-bottom:20px solid  #185666;
+}
+.write{
+  font-size: 1.2em;
+  display: flex;
+  flex-direction: column; 
+   border-top: 20px solid  #185666;
+}
+.my{
+   border-top: 5px solid  #185666;
+   color: white;
+   font-family: '楷体';
+}
+.basic{
+   border-top: 5px solid white;
+   color: grey;
+   border-bottom: 5px solid white;
+   border-left:10px solid white;
+}
+.line{
+width: 100%;
+border-top:1px #989898 solid;
+}
+.end{
+  border-top: 40px  solid white;
+  text-align: right;
+}
